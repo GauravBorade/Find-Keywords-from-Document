@@ -1,5 +1,5 @@
 # Find-Keywords-from-Document
-In this notebook, we are going to extract the keywords from the document
+In this notebook, we are going to extract the important keywords from the document
 
 # Installation
 You have to install Anaconda or Python IDLE to run this project
