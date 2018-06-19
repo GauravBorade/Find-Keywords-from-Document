@@ -1,6 +1,11 @@
 # NLP Find-Keywords-from-Document
 In this notebook, we are going to extract the important keywords from the document
 
+You can find 2 notebooks here
+1. Short_Ver_NLP_Find_Keywords_From_Doc (code & Result)
+2. NLP_Find_Keywords_From_Doc (Descriptive with code & Result)
+
+
 # Installation
 You have to install Anaconda or Python IDLE to run this project
 
