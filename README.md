@@ -24,8 +24,11 @@ Link: https://docs.google.com/document/d/149UY32wdBu1VcH-7RtmIxAzGywqAQjeYKqFS7S
 
 Go to the address -> save it as a text file (.txt format)
 
-I have added this file in github download list. Also The PDF fie of same document has uploaded for reference.
+I have added this file in download list (JavaBasics-notes-encoded.txt). 
 
+Also, The PDF fie of same document has uploaded for reference.
+
+You can see result csv file in downloads (keywords.csv)
 
 
 
