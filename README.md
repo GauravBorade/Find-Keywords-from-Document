@@ -1,9 +1,10 @@
 # NLP Find-Keywords-from-Document
 In this notebook, we are going to extract the important keywords from the document
 
-You can find 2 notebooks here
+You can find 3 notebooks here
 1. Short_Ver_NLP_Find_Keywords_From_Doc (code & Result)
 2. NLP_Find_Keywords_From_Doc (Descriptive with code & Result)
+3. With_PDF_NLP_Find_Keywords_From_Doc(Give path of your pdf file it will give you the kewwords from it)
 
 
 # Installation
